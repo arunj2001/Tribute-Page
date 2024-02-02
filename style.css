@@ -1,0 +1,62 @@
+p{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+#author{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+#year{
+    font-size: 15px;
+}
+.first{
+    background-color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width:100%;
+}
+img{
+    width: 350px;
+    height: 350px;
+    float: right;
+}
+.quote{
+    font-size: 33px;
+    text-align: center;
+    padding-top: 9rem;
+    padding-bottom: 5.6rem;
+    font-family: monospace;
+}
+#biography{
+    font-family: monospace;
+    color: white;
+    font-weight:bold;
+    font-size: 45px;
+    padding-left:15%;
+
+}
+.third{
+    background-color: black;
+    padding-top: 25px;
+    padding-bottom: 1.5rem;
+}
+#para-quote{
+    padding-left: 15%;
+    font-family: monospace;
+    color: white;
+    text-align: left;
+    font-size: 17px;
+    line-height: 28px;
+}
+.second{
+    width:100%;
+}
+hr{
+    margin-left: 15%;
+    margin-right: 26%;
+    width: 59%;
+    float:center;
+}
